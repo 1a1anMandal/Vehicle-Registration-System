@@ -1,8 +1,8 @@
-# blockchain-using-python
-It contains 2 file
+# Blockchain-using-python
+This repository contains 2 file of using blockchain
 
-Voter management System built using Python
+1. Voter management System built using Python
 
 &
 
-Vehicle Registration System with SHA-256 Hashing
+2. Vehicle Registration System with SHA-256 Hashing
